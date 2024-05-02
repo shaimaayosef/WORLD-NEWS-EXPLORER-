@@ -6,7 +6,9 @@
 
 ## Architecture
 
-[Imgur](https://imgur.com/vwF2out)
+<picture>
+ <img alt="Architecture" src="https://imgur.com/vwF2out">
+</picture>
 
 ### User Interface
 The user interface serves as the entry point for users to interact with the system. It is built using HTML, CSS, and JavaScript, offering a user-friendly interface for browsing and searching news articles.
@@ -72,12 +74,20 @@ To meet the needs of target users, the following user stories are addressed:
 
 ## Data Model
 
-[Imgur](https://imgur.com/1XKxvzZ)
+<picture>
+ <img alt="Data Model" src="https://imgur.com/1XKxvzZ">
+</picture>
 
 The data model illustrates the basic structure of data storage in World News Explorer MVP, including user preferences and interactions with categorized news articles.
 
 ## Mockups
 
-[Imgur](https://imgur.com/Z2j7fHo)
-[Imgur](https://imgur.com/tL4cF0G)
-[Imgur](https://imgur.com/33zvIOU)
+<picture>
+ <img alt="Data Model" src="https://imgur.com/Z2j7fHo">
+</picture>
+<picture>
+ <img alt="Data Model" src="https://imgur.com/tL4cF0G">
+</picture>
+<picture>
+ <img alt="Data Model" src="https://imgur.com/33zvIOU">
+</picture>
